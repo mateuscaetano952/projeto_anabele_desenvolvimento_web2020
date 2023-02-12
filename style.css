@@ -1,0 +1,27 @@
+body{
+    background: rgb(223, 217, 217) url(Img/fundo.png);
+}
+
+#menu{
+    padding: 15px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+
+#conteudo{
+    background: #fff;
+    padding: 10px;
+}
+
+#rodape{
+    text-align: center;
+}
+
+.img-campanha{
+    border: solid 10px gray;
+}
+
